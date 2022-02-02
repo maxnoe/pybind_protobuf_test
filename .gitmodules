@@ -1,3 +1,9 @@
 [submodule "extern/pybind11_protobuf"]
 	path = extern/pybind11_protobuf
 	url = https://github.com/pybind/pybind11_protobuf/
+[submodule "abseil-cpp"]
+	path = abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
+[submodule "extern/abseil-cpp"]
+	path = extern/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp.git
